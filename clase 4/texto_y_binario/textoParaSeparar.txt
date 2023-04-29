@@ -1,0 +1,10 @@
+1,Carlos Alberto,10
+2,Jorge Luis,8
+3,Martita,10
+4,Pedro,7
+5,Alicia,5
+6,Mabel,8
+7,Alicia,9
+8,Francisco,7
+9,Nazareno,4
+10,Tiburcio,7

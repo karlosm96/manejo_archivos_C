@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680737900 source:c:\users\hp\desktop\inspt\estructura y base de datos\clase 4\texto_y_binario\primero.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

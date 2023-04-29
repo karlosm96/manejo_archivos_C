@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680734933 source:c:\users\hp\desktop\inspt\estructura y base de datos\clase 3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
